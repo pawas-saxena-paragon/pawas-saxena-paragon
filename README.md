@@ -1,6 +1,4 @@
 - 👋 Hi, I’m pawas
-- 👀 I’m interested in developing backends for large scale applications.
-- 🌱 I’m currently learning microservice architecture
 - 📫 drop me an email at pawas.saxena@gmail.com to reach me. 
 
 <!---
